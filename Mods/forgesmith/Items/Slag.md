@@ -1,0 +1,3 @@
+Slags are principally divided into blast **furnace slag and metallurgical slag**. At voestalpine the two types of slag are separately collected, prepared, and processed further into products. As the name suggests, the blast furnace slag is generated in the blast furnace, during the production of liquid pig iron, and is mostly processed further into granulated blast furnace slag which is a valuable additive in the cement industry.
+
+The main type of metallurgical slag is LD slag, the byproduct of the Linz-Donawitz process. It is produced in the LD converter as pig iron is processed into steel.

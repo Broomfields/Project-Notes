@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "5fd6c4bdefee875b",
+    "type": "split",
+    "children": [
+      {
+        "id": "539385608c5685f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Items/Slag.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef673a31b303b836",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7100eb4aabe186a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72adb5be945f2403",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5739733d536dd2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2bbe155ecc19fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9b16e00e0e9c7d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d30fabc03d33b72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Items/Slag.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "539385608c5685f4",
+  "lastOpenFiles": [
+    "Items/Slag.md",
+    "Items/Poor Iron Sand.md",
+    "Items/Rich Flux.md",
+    "Items/Poor Flux.md",
+    "Items/Ingots/Carbon Steel Ingot.md",
+    "Items/Untitled.md",
+    "Entities/Tile Entities/Recipe Blocks/Electric Arc Furnace.md",
+    "Entities/Tile Entities/Recipe Blocks/Blast Furnace.md",
+    "Entities/Tile Entities/Recipe Blocks/Untitled.md",
+    "Materials/Coke.md"
+  ]
+}
