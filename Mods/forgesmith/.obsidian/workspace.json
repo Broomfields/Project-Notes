@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "539385608c5685f4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Items/Rich Iron Sand.md",
-            "mode": "source"
+        "id": "2fa20cefdc0b8300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "539385608c5685f4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -30,7 +33,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -68,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Rich Iron Sand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +90,19 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
   "active": "539385608c5685f4",
   "lastOpenFiles": [
+    "Entities/Tile Entities/Recipe Blocks/Electric Arc Furnace.md",
+    "Entities/Tile Entities/Recipe Blocks/Blast Furnace.md",
     "Items/Rich Iron Sand.md",
     "Items/Rich Flux.md",
     "Items/Slag.md",
@@ -95,8 +110,6 @@
     "Items/Poor Flux.md",
     "Items/Ingots/Carbon Steel Ingot.md",
     "Items/Untitled.md",
-    "Entities/Tile Entities/Recipe Blocks/Electric Arc Furnace.md",
-    "Entities/Tile Entities/Recipe Blocks/Blast Furnace.md",
     "Entities/Tile Entities/Recipe Blocks/Untitled.md"
   ]
 }
